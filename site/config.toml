@@ -104,6 +104,11 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     link = "https://twitter.com/Nicc128"
 
   [[params.social]]
+    title = "Medium"
+    icon = "fa-medium"
+    link = "https://medium.com/@Nicc128"
+
+  [[params.social]]
     title = "Github"
     icon = "fa-github"
     link = "https://github.com/Nic128"
