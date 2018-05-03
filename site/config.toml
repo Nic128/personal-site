@@ -44,7 +44,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     # Avatars can be written to images/avatars/
     avatar = "nicolas.jpg"
     position = "Front End Web Developer"
-    livesIn = "[Côte St-Luc, Canada](https://www.google.ca/maps/place/C%C3%B4te+Saint-Luc,+Quebec/@45.4726607,-73.676298,14z/data=!3m1!4b1!4m13!1m7!3m6!1s0x4cc91a541c64b70d:0x654e3138211fefef!2sMontreal,+QC!3b1!8m2!3d45.5016889!4d-73.567256!3m4!1s0x4cc9171708799997:0xddde2c6d42ac0b30!8m2!3d45.4680768!4d-73.6729431)"
+    livesIn = "[Boisbriand, Canada](https://www.google.ca/maps/place/Boisbriand,+QC/@45.6143797,-73.899509,13z/data=!3m1!4b1!4m5!3m4!1s0x4cc928a1cbad89c5:0x9fc1ad49852b9d0b!8m2!3d45.6126338!4d-73.8383733)"
     scope = []
     biography = """Results-oriented web developer. I have exhaustive HTML and CSS experience, coupled with strong javascript programming skills. I come from a multimedia background."""
 
