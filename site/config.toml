@@ -128,7 +128,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
   # Footer settings
   [params.footer]
     # If copyright is not set, author is used
-    copyright = "Nicolas Martel, 2019"
+    copyright = "Nicolas Martel, 2020"
 
   # Page license
   [params.license]
